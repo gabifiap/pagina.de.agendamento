@@ -91,6 +91,18 @@ useEffect(() => {
       return;
     }
 
+    fetch("/api/notificar", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        nomeCliente,
+        contato,
+        servico: selecionado.nome,
+        data: data.toLocaleDateString("pt-BR"),
+        horario,
+      }),
+    });
+
     setConfirmado(true);
   }
 
