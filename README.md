@@ -1,6 +1,6 @@
-# 💈 Barbearia do Paulo — Sistema de Agendamento Online
+# 💈 MODELO - Sistema de Agendamento Online
 
-Sistema completo de agendamento para barbearias, com reserva de horário pelo cliente em tempo real e painel administrativo para o dono do negócio.
+Sistema completo de agendamento para comércios, com reserva de horário pelo cliente em tempo real e painel administrativo para o dono do negócio.
 
 🔗 **Demo ao vivo:** [inquisitive-panda-a8b0a9.netlify.app](https://inquisitive-panda-a8b0a9.netlify.app)
 
@@ -55,5 +55,3 @@ npm run dev
 
 ---
 
-Projeto desenvolvido por [Seu Nome] como parte de um portfólio de freelancer.
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
