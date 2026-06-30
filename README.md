@@ -2,9 +2,12 @@
 
 Sistema completo de agendamento para comércios, com reserva de horário pelo cliente em tempo real e painel administrativo para o dono do negócio.
 
-🔗 **Demo ao vivo:** [inquisitive-panda-a8b0a9.netlify.app](https://inquisitive-panda-a8b0a9.netlify.app)
+🔗 **Interface ao vivo:** [inquisitive-panda-a8b0a9.netlify.app](https://inquisitive-panda-a8b0a9.netlify.app)
 
-![Tela inicial do sistema de agendamento](./screenshot.png)
+<img width="1341" height="647" alt="image" src="https://github.com/user-attachments/assets/92e14781-b201-4a2f-9f47-c730cb01dc2d" />
+
+<img width="495" height="417" alt="image" src="https://github.com/user-attachments/assets/6156b9b6-2c97-4e18-80a0-7681b16ac41d" />
+
 
 ## ✨ Funcionalidades
 
