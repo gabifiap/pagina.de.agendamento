@@ -22,13 +22,13 @@ Sistema completo de agendamento para comércios, com reserva de horário pelo cl
 
 | Camada | Tecnologia |
 |---|---|
-| Frontend | Next.js 16 (App Router), React, TypeScript |
-| Estilização | Tailwind CSS |
-| Banco de dados | Supabase (PostgreSQL) com Row Level Security |
+| Frontend | Next.js, React, TypeScript |
+| Estilização | CSS |
+| Banco de dados | Supabase (PostgreSQL) |
 | Autenticação | Supabase Auth |
 | E-mail transacional | Resend |
 | Calendário | react-day-picker |
-| Deploy | Netlify (CI/CD automático via GitHub) |
+| Deploy | Netlify |
 
 ## 🔒 Segurança
 
